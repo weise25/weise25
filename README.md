@@ -2,13 +2,13 @@
 
 I´m Djamal.
 
-Self-taught developer based in Germany.
+Self-taught developer based in Nuremberg, Germany.
 
 I've spent the last three years going deep on AI, local LLMs, and web/app development.
 Before that, I was already into computer hardware, systems and also security — AI just gave me the
 tools to go further.
 
-Currently finishing CS50x and working on a few personal projects.
+Currently finishing CS50x and working on a few open-source projects.
 
 ---
 
@@ -19,9 +19,10 @@ A local alternative to DeepSite. You describe a webpage in plain text, and a loc
 or cloud LLM generates it — with live preview. Built with Next.js, supports Ollama,
 LM Studio, and many Cloud providers.
 
-**[PocketFlow-PHP](https://github.com/The-Pocket/PocketFlow-PHP)**  
+**[PocketFlow-PHP](https://github.com/weise25/PocketFlow-PHP)**  
 A PHP port of the Python framework PocketFlow by Zachary Huang. Full feature parity,
 pure PHP with ReactPHP as the only dependency.
+Officially maintained under [The-Pocket](https://github.com/The-Pocket/PocketFlow-PHP).
 
 ---
 
